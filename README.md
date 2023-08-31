@@ -27,10 +27,9 @@
 - SSM
 - SpringBoot
 - SpringCloud
-- Redis
 - MyBatis
 - SpringSecurity、Shiro
-- Mysql、SQLServer、MongoDB 
+- Mysql、SQLServer、MongoDB、Redis
 
 ##### Android
 
