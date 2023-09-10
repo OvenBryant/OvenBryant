@@ -4,13 +4,6 @@
 
 ## Hi ,I am OvenBryant
 
-### slogan
-
-- 只要学不S，就往S里学
-
-
-
-
 ### &nbsp;Connect with Me
 
 - 电子邮件：3063899248@qq.com
