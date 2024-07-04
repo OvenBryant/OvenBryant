@@ -29,7 +29,7 @@
 - Android原生Java开发
 - 列表和适配器
 - SQLite数据库
-- Fragment(碎片)
+- Fragment
 
 ##### C#
 
@@ -45,10 +45,6 @@
 ### 前端
 
 - Vue
-
-- React
-
-
 
 ### 其他
 
